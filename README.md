@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-radghazal79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:radghazal79@gmail.com)](mailto:radghazal79@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Ghazal%20Sepehrirad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazalsprr/)](https://www.linkedin.com/in/ghazalsepehrirad/) [![GitHub followers](https://img.shields.io/github/followers/IVIosi?label=Follow&style=social)](https://github.com/IVIosi/?tab=follow) ![profile views](https://komarev.com/ghpvc/?username=ghazalsprr&color=brightgreen&style=flat-square)
+
 ![Ghazal's github stats](https://github-readme-stats.vercel.app/api?username=ghazalsprr&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalsprr&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
+
+
 
 <!--
 **ghazalsprr/ghazalsprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
