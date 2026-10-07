@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Ghazal's github stats](https://github-readme-stats.vercel.app/api?username=ghazalsprr&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalsprr&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
+
 <!--
 **ghazalsprr/ghazalsprr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
