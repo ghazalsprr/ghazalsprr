@@ -30,10 +30,13 @@ An end-to-end data quality pipeline on a real-world dataset of ~19,000 football 
 
 `pandas` `ydata-profiling` `missingno` `seaborn` `Plotly`
 
-### [🏠 Magic Room Simulator](https://github.com/ghazalsprr/Magicroom)
-A Unity simulator of an interactive smart room, controlling virtual lights, smart plugs, smart toys and text-to-speech through a UI.
+### [🧩 Magic Room: Tangram Edition](https://github.com/ghazalsprr/Magicroom)
+A room-scale, projection-based Tangram game for children aged 6–8 with ADHD, played with the whole body inside a multisensory smart room.
+- Children select pieces by standing on them, rotate them with hand gestures, and place them by moving through the room
+- Design grounded in the PASS cognitive model, with story-driven scenarios and controlled sensory load
+- Led the design, UX and documentation; [gameplay video](https://youtu.be/GdXRwATgJOQ)
 
-`Unity` `C#`
+`Unity` `C#` `HCI` `Embodied interaction`
 
 ---
 
