@@ -29,7 +29,7 @@ A chatbot that plays a *Who Wants to Be a Millionaire*–style quiz game in **te
 
 `Python` `PyTorch` `Hugging Face` `RAG` `FAISS` `Whisper` `4-bit quantization`
 
-### [📊 Data Quality Assessment — FIFA Players Dataset](https://github.com/ghazalsprr/DQ-Project)
+### [📊 Data Quality Assessment — FIFA Players Dataset](https://github.com/ghazalsprr/fifa-data-quality)
 An end-to-end data quality pipeline on a real-world dataset of ~19,000 football players.
 - Data profiling, completeness and consistency assessment, correlation analysis
 - Missing-value handling, type normalisation and cleaning of messy categorical and date fields
